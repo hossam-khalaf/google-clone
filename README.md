@@ -5,4 +5,4 @@
 ### how to use
   clone the project then open index.html with live-server package, or vscode extension
 ### Live Preview:
-    hossam-khalaf.github.io/google-clone
+    https://hossam-khalaf.github.io/google-clone/
